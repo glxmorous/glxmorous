@@ -1,5 +1,5 @@
 $$
-\boxed{\huge \color{#DA587F}{\text{Don't}} \ \color{#abb2bf}{\text{worry}} \ \color{#d19a66}{\text{,}} \ \color{#c678dd}{\text{I'll}} \ \color{#abb2bf}{\text{protect}} \ \color{#61afef}{\text{you.}}}
+\boxed{\huge \color{#DA587F}{\text{Don't}} \ \color{#D0B9C0}{\text{worry}} \ \color{#B9315A}{\text{,}} \ \color{#D0B9C0}{\text{I'll}} \ \color{#D57B96}{\text{protect}} \ \color{#E2225C}{\text{you.}}}
 $$
 
 test
